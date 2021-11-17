@@ -1,6 +1,23 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, my name is Mehedi
+#### I am a Full-Stack web developer & Graphics desinger
+![I am a Full-Stack web developer & Graphics desinger](https://pbs.twimg.com/profile_banners/1237753042461544454/1637129069/600x200)
 
-<h3 align="left">Connect with me:</h3>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: fiverr.com/opurbo6120 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](opurbo6120)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi6120)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi6120&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedi6120)  
+
+![Profile views](https://gpvc.arturio.dev/mehedi6120)  
+
 <p align="left">
 </p>
 
