@@ -1,13 +1,67 @@
 ![I am a Full-Stack web developer & Graphics desinger](https://pbs.twimg.com/profile_banners/1237753042461544454/1637129069/600x200)
-### Hi there 👋,I am Mehedi
-#### I am a Full-Stack web developer & Graphics desinger
-##### specially on MERN(mongodb,express js, React js, Node js)
-- 🔭 I’m currently working on Fiverr. 
+### Hi there 👋,
+I am Mehedi Hassan. working as a full-stack MERN(mongodb,express js,react js,node js) developer as a freelancer. also expert in web design and graphics design. i also have experiance in wordPress. i love to learn new things from various kind of sources. :)
+<br>
+![Profile views](https://gpvc.arturio.dev/mehedi6120)  <img src="https://img.shields.io/github/followers/mehedi6120?label=Follow" style=" float:left, margin-right:10px" />
 - 📫 How to reach me: fiverr.com/opurbo6120 
-<h3 align="left">I am suitable with:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ ---
 
- 
+
+**I'm Exparts In**  
+
+
+<code><img title="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img title="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img title="SASS/SCSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img title="Bootstrap" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img title="Tailwind CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img title="JavaScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img title="React JS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img title="Node js" height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nodejs/nodejs.png"></code>
+
+
+---
+
+
+**I Also Can Work With**
+
+
+
+<code><img title="Redux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img title="Firebase" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img title="Express JS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img title="MongoDB" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img title="mySQL" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code><code><img title="WordPress" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+
+
+
+---
+
+
+**Tools, I Always Use**
+
+
+<code><img title="VS CODE" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img title="Adobe XD" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"></code>
+<code><img title="Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img title="Netlify" height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
+<code><img title="Heroku" height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+<code><img title="Terminal" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img title="Photoshop" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code><code><img title="Illustrator" height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"></code>
+
+
+
+
+---
+
+
+**Have some familiarity with:**
+
+
+<code><img title="Squarespace" height="20" src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c5/20130318145353%21Squarespace_Logo.png"></code>
+<code><img title="Shopify" height="20" src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png"></code><code><img title="Python" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi6120)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,12 +69,29 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedi6120)  
 
-![Profile views](https://gpvc.arturio.dev/mehedi6120)  
-
-<p align="left">
-</p>
 
 
 
+### You can connect me on social media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mehedi6120)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](opurbo6120) 
+[<img align="left" alt="mehedi6120 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mehedi6120 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+<!-- [<img align="left" alt=" | Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" />][facebook] -->
+[<img align="left" alt="mehedi6120 | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+
+<br/>
+<br/>
+
+
+
+Let's connect 👨‍💻 and work together.😁✌
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [mehedi6120](https://github.com/mehedi6120)
+
+[twitter]: https://twitter.com/mehedi6120
+[instagram]: https://www.instagram.com/mehedi6120/
+[linkedin]: https://www.linkedin.com/in/mehedi6120/
+<!-- [facebook]: https://www.facebook.com/in// -->
+
